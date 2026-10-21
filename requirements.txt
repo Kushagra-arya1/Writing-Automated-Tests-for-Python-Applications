@@ -1,0 +1,3 @@
+# Production dependencies
+# datapype uses only standard Python libraries (typing, re, csv, json, datetime, math)
+# Zero external runtime dependencies required!
